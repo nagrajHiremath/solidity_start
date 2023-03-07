@@ -67,6 +67,9 @@ ______________________________________________________smartContract in solidity_
 - import contracts into another contract{
 
 }
+-inheritance and override{
+    
+}
 
 
 
