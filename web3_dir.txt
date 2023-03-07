@@ -1,0 +1,20 @@
+
+// goal -> freelancing_web3
+-> learn_web3 -> open_src_contribution -> search_freelancing (time - )
+
+-> learn_web3 {
+    javaScript (Basics)
+    react (Basics)
+    blockchain
+    32 hrs course (https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+}
+
+-> open_src_contribution{
+    google_summer_code
+}
+
+-> search_freelancing{
+
+}
+
+

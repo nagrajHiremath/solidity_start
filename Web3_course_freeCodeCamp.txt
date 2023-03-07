@@ -1,0 +1,78 @@
+[web3 course]
+32 hrs course (https://www.youtube.com/watch?v=gyMwXuJrbJQ)
+___________________________________________________________________________________________________________________________________________
+
+- imp rsrc links
+(https://github.com/smartcontractkit/full-blockchain-solidity-course-js)
+
+_______________________________________________________intro, features____________________________________________________________________________________
+
+- Blockchain intro {
+    Blockchain is a network of blocks eg. bitcoin, etherium. where anyone can deploy their application or usecase to make decentralise
+    and trustworthy.
+    - smart_contracts{
+        smart_contracts are contracts built by blockchain devs for the particular transaction. it like a agreement between employee and employer, 
+        insurance company and you, bank and you, and so on...
+    }
+}
+
+- use case as of now {
+    - defi (decentralise_finance)
+    - daos (decentralise_organisations)
+    - nfts (non_fungable_tokens)
+}
+
+__________________________________________________________wallet, blockchaindemo, design_________________________________________________________________________________
+
+- first_smart_contract {
+    - wallet on metamask
+    - etherscan.io (block_explorer)
+    - connect to test network -> get test links/eth 
+}
+
+// representaion of single block in blockchain.
+- block {
+    - block {
+        # digit <- block_number
+    }
+    - nonce {
+        /digit <- which get after mining 
+    }
+    - data {
+        - transactions {
+
+        }
+        - any data stored on block represents a unique hash corrosponding to it.
+    }
+    - prev {
+        - hash number of previus block in blockchain.
+    }
+    - hash {
+        - hash is a fixed length string represents data above. As data change hash change according to algorithm.
+    }
+}
+
+// introduces distributed blockchain
+- peer {
+    - is a particular blockchain of multiple blocks. But in a blockchain there can be multiple peers.
+}
+
+______________________________________________________smartContract in solidity_____________________________________________________________________________________
+
+- solidity {
+    : a programming language to write a smart contracts 
+    
+}
+
+- import contracts into another contract{
+
+}
+
+
+
+_____________________________________________________***____________________________________***____________________________________________
+timeStamp: 3:41:14 / 32 hrs
+
+1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17  18  19  20  21  22  23  24  25  26  27  28  29  30  31  32
+________|_____________________________________________________________________________________________________________
+     3:41:14
